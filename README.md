@@ -2,6 +2,7 @@
 An inconspicuous device which quacks when motion is detected. The duck is powered by a battery and supports the Qi wireless charging.
 
 ![](docs/screenshot.jpeg)
+[Demo video](https://twitter.com/dr2mod/status/1552293647583952902)
 
 ## Hardware
 
@@ -15,7 +16,7 @@ An inconspicuous device which quacks when motion is detected. The duck is powere
 * Qi receiver module - Micro USB
 
 ### Print
-The 3d model can be downloaded from my Printables [here](https://www.printables.com/social/306904-dmytro-panin/models).
+The 3d model can be downloaded from my Printables [here](https://www.printables.com/model/249213-the-guardian-duck).
 
 ## Software
 The software is written in CircuitPython and tested with the version 7.3.1
